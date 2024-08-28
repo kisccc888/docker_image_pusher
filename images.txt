@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+nodered/node-red
